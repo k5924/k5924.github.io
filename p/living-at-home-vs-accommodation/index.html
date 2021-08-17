@@ -330,52 +330,45 @@ Things you need to consider when moving into accommodation:
      
      
         
-    <script
-    src="https://giscus.app/client.js"
-    data-repo="k5924/blog"
-    data-repo-id=""
-    data-category="Announcements"
-    data-category-id=""
-    data-mapping="pathname"
-    data-reactions-enabled="1"
-    data-emit-metadata="0"
-    data-theme="light"
-    crossorigin="anonymous"
-    async
-></script>
-<script>
-    function setGiscusTheme(theme) {
-        let giscus = document.querySelector('iframe.giscus-frame');
-        if (giscus) {
-            giscus.contentWindow.postMessage(
-                { 
-                    giscus: {
-                        setConfig: { 
-                            theme: theme 
-                        }
-                    }
-                },
-                "https://giscus.app"
-            );
-        };
-    };
-
-    (function(){
-        addEventListener('message', (e) => {
-            if (event.origin !== 'https://giscus.app') return;
-            handler()
-        });
-        window.addEventListener('onColorSchemeChange', handler);
-
-        function handler() {
-            if (document.documentElement.dataset.scheme === "light") {
-                setGiscusTheme('light');
-            } else {
-                setGiscusTheme('dark_dimmed');
-            };
-        };
-    }());
+    <script src="https://utteranc.es/client.js" 
+        repo="k5924/blog"
+        issue-term="pathname"
+        
+        crossorigin="anonymous"
+        async
+        >
 </script>
+
+<style>
+    .utterances {
+        max-width: unset;
+    }
+</style>
+
+<script>
+    function setUtterancesTheme(theme) {
+        let utterances = document.querySelector('.utterances iframe');
+        if (utterances) {
+            utterances.contentWindow.postMessage(
+                {
+                    type: 'set-theme',
+                    theme: `github-${theme}`
+                },
+                'https://utteranc.es'
+            );
+        }
+    }
+
+    addEventListener('message', event => {
+        if (event.origin !== 'https://utteranc.es') return;
+        setUtterancesTheme(document.documentElement.dataset.scheme)
+    });
+
+    window.addEventListener('onColorSchemeChange', (e) => {
+        setUtterancesTheme(e.detail)
+    })
+</script>
+
 
     
 
