@@ -2,14 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://k5924.github.io/categories/</loc>
+    <lastmod>2021-08-17T01:17:01+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/tags/credit/</loc>
+    <lastmod>2021-08-17T01:17:01+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/tags/cryptocurrency/</loc>
+    <lastmod>2021-08-17T01:17:01+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/categories/finance/</loc>
+    <lastmod>2021-08-17T01:17:01+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/p/how-investing-works/</loc>
+    <lastmod>2021-08-17T01:17:01+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/tags/investing/</loc>
+    <lastmod>2021-08-17T01:17:01+01:00</lastmod>
+  </url><url>
     <loc>https://k5924.github.io/</loc>
-    <lastmod>2021-08-17T00:35:59+01:00</lastmod>
+    <lastmod>2021-08-17T01:17:01+01:00</lastmod>
   </url><url>
     <loc>https://k5924.github.io/post/</loc>
-    <lastmod>2021-08-17T00:35:59+01:00</lastmod>
+    <lastmod>2021-08-17T01:17:01+01:00</lastmod>
   </url><url>
-    <loc>https://k5924.github.io/p/this-is-the-post-title/</loc>
-    <lastmod>2021-08-17T00:35:59+01:00</lastmod>
+    <loc>https://k5924.github.io/tags/stocks/</loc>
+    <lastmod>2021-08-17T01:17:01+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/tags/</loc>
+    <lastmod>2021-08-17T01:17:01+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/tags/budgeting/</loc>
+    <lastmod>2021-08-17T01:14:43+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/p/how-to-budget/</loc>
+    <lastmod>2021-08-17T01:14:43+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/p/living-at-home-vs-accommodation/</loc>
+    <lastmod>2021-08-17T01:12:23+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/tags/maintenance-loan/</loc>
+    <lastmod>2021-08-17T01:07:39+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/tags/tuition-fee/</loc>
+    <lastmod>2021-08-17T01:07:39+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/p/tuition-fee-and-maintenance-loan/</loc>
+    <lastmod>2021-08-17T01:07:39+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/tags/apprenticeship/</loc>
+    <lastmod>2021-08-17T01:01:09+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/p/how-to-decide-between-an-apprenticeship-or-working-part-time/</loc>
+    <lastmod>2021-08-17T01:01:09+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/tags/part-time/</loc>
+    <lastmod>2021-08-17T01:01:09+01:00</lastmod>
   </url><url>
     <loc>https://k5924.github.io/about/</loc>
     <lastmod>2021-08-16T00:00:00+00:00</lastmod>
@@ -20,10 +68,6 @@
     <loc>https://k5924.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://k5924.github.io/categories/</loc>
-  </url><url>
     <loc>https://k5924.github.io/search/</loc>
-  </url><url>
-    <loc>https://k5924.github.io/tags/</loc>
   </url>
 </urlset>
