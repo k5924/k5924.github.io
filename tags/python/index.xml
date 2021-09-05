@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on K5924&#39;s Blog</title>
+    <link>https://k5924.github.io/tags/python/</link>
+    <description>Recent content in python on K5924&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Sep 2021 03:19:08 +0100</lastBuildDate><atom:link href="https://k5924.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Choosing a programming language</title>
+      <link>https://k5924.github.io/p/choosing-a-programming-language/</link>
+      <pubDate>Sun, 05 Sep 2021 03:19:08 +0100</pubDate>
+      
+      <guid>https://k5924.github.io/p/choosing-a-programming-language/</guid>
+      <description>Although I will be talking about high level languages I think this post applies to all types of programming languages.
+When programming everyone struggles to choose a specific programming language to code in but choosing a language to code in is easier than it seems. In my experience choosing a language mainly depends on what you want to do for the coding project you&amp;rsquo;ve chosen.
+For instance, if you are making a CLI application, there is no need to use a language like python or java as it adds unnecessary overhead to the application.</description>
+    </item>
+    
+  </channel>
+</rss>

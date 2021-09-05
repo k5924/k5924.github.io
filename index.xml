@@ -6,7 +6,31 @@
         <description>Recent content on K5924&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 17 Aug 2021 01:17:01 +0100</lastBuildDate><atom:link href="https://k5924.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 05 Sep 2021 03:19:08 +0100</lastBuildDate><atom:link href="https://k5924.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Choosing a programming language</title>
+        <link>https://k5924.github.io/p/choosing-a-programming-language/</link>
+        <pubDate>Sun, 05 Sep 2021 03:19:08 +0100</pubDate>
+        
+        <guid>https://k5924.github.io/p/choosing-a-programming-language/</guid>
+        <description>&lt;p&gt;Although I will be talking about high level languages I think this post applies to all types of programming languages.&lt;/p&gt;
+&lt;p&gt;When programming everyone struggles to choose a specific programming language to code in but choosing a language to code in is easier than it seems. In my experience choosing a language mainly depends on what you want to do for the coding project you&amp;rsquo;ve chosen.&lt;/p&gt;
+&lt;p&gt;For instance, if you are making a CLI application, there is no need to use a language like python or java as it adds unnecessary overhead to the application. Although it may be easier to code in python as you wont have to write as much code, in terms of speed of compilation times for large applications and when comparing file sizes, c is far better for command line applications.&lt;/p&gt;
+&lt;p&gt;If you were making a gui application, it is far easier using Java, C++ or Python. In this scenario I would select C++ for faster compilation times than Java and Python. If I was more focused on releasing an application quickly I would choose Python as it would use less lines of code than in C++. If I want the best of both worlds I would use Java as it is considerably faster than Python and handles memory management for you unlike in C++. The pitfall of Java is that it compiles in a slower time than C++ and would take longer to code than a Python program.&lt;/p&gt;
+&lt;p&gt;For cross platform applications you have a choice between flutter, react native and xamarin. I haven&amp;rsquo;t included any frameworks which don&amp;rsquo;t offer native application development as they are considerably slower when used on a device. In this scenario it depends entirely on which programming languages you have familiarity with. React Native is for developers with extensive knowledge in React or JavaScript while flutter is very similar to Java. Xamarin is written in C# so it is most suitable for C# developers.&lt;/p&gt;
+&lt;p&gt;For game development, I would recommend using a game engine as they are easier to use than making your own engine and saves time. If you are first starting out I would recommend making a game in python using the pygame library and then move onto Unity, Godot or Unreal Engine. If its a 3D game then use Unity or Unreal Engine but if its a 2D game use Godot.&lt;/p&gt;
+&lt;p&gt;Although you may have familiarity with a specific language don&amp;rsquo;t let that deter you from learning others as all of these languages and frameworks can be learnt within a couple of months to a year.&lt;/p&gt;
+&lt;p&gt;The main takeaway from this is choose a language that is optimized for the program your developing. If you prioritize speed when developing use a relatively high level language. If you prioritize the overall package size of the application, use a low level language as you can write a lot more code in a smaller digital footprint.&lt;/p&gt;
+&lt;p&gt;Conclusion&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What application are you making?&lt;/li&gt;
+&lt;li&gt;When do you have to deliver the application by?&lt;/li&gt;
+&lt;li&gt;How many people will be working on the project?&lt;/li&gt;
+&lt;li&gt;What programming languages are you familiar with?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Create a list of languages which you could use then go down the list of questions while filtering out the languages which aren&amp;rsquo;t suitable for your application, then it will be considerably easier to choose what language to use. If you are still stuck there is no harm in trying both out and choosing the one you like coding in better.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>How Investing Works</title>
         <link>https://k5924.github.io/p/how-investing-works/</link>
         <pubDate>Tue, 17 Aug 2021 01:17:01 +0100</pubDate>
