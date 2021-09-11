@@ -14,7 +14,7 @@
       
       <guid>https://k5924.github.io/p/elevation/</guid>
       <description>Introduction  We are provided with a working application that searches a raster of elevation data for regions of relative flatness. The raster is an image in which each pixel represents an elevation for a point on the terrain. The application can be imagined to be searching for potential landing sites for an aircraft or spacecraft of some kind. rgbelevation contains example images to use with the program
- SearchUIEnhancement   Parallelisation   Considerations  All code must implement thread-safety correctly</description>
+ SearchUIEnhancement    Run the search on a worker thread so the UI doesnt freeze -Display output from the searcher in the text area under the raster A user can cancel the operation and quit the program by closing the window A user can cancel the operation without quitting the program through a cancel button A progress bar is updated each second by a dedicated thread that monitors the progress of the search  Parallelisation    Make a class that extends recursive action which searches the raster for points of elevation Implement a compute method to make new threads in the fork join pool Discard information and update messages from the search listener  Considerations  All code must implement thread-safety correctly</description>
     </item>
     
     <item>

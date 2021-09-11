@@ -20,19 +20,25 @@ rgbelevation contains example images to use with the program&lt;/p&gt;
 &lt;h2 id=&#34;searchuienhancement&#34;&gt;SearchUIEnhancement&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;/blockquote&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Run the search on a worker thread so the UI doesnt freeze
+-Display output from the searcher in the text area under the raster&lt;/li&gt;
+&lt;li&gt;A user can cancel the operation and quit the program by closing the window&lt;/li&gt;
+&lt;li&gt;A user can cancel the operation without quitting the program through a cancel button&lt;/li&gt;
+&lt;li&gt;A progress bar is updated each second by a dedicated thread that monitors the progress of the search&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;parallelisation&#34;&gt;Parallelisation&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;/blockquote&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Make a class that extends recursive action which searches the raster for points of elevation&lt;/li&gt;
+&lt;li&gt;Implement a compute method to make new threads in the fork join pool&lt;/li&gt;
+&lt;li&gt;Discard information and update messages from the search listener&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;considerations&#34;&gt;Considerations&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;All code must implement thread-safety correctly&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h2 id=&#34;languages-and-tools&#34;&gt;Languages and Tools:&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;/blockquote&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
         </item>
         <item>
@@ -49,35 +55,34 @@ rgbelevation contains example images to use with the program&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;If you are compiling the code from source then ensure that python is installed on the machine with pip added to Path in the environment variables on windows. Through pip Run:&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;blockquote&gt;
+&lt;pre&gt;&lt;code&gt;pip install pyqt5 pycryptodome
+&lt;/code&gt;&lt;/pre&gt;&lt;blockquote&gt;
 &lt;p&gt;If pycryptodome fails to install, try running:&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;blockquote&gt;
+&lt;pre&gt;&lt;code&gt;pip uninstall crypto cryptography pycrypto pycryptodomex
+&lt;/code&gt;&lt;/pre&gt;&lt;blockquote&gt;
 &lt;p&gt;Then re-run:&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;blockquote&gt;
+&lt;pre&gt;&lt;code&gt;pip install pycryptodome
+&lt;/code&gt;&lt;/pre&gt;&lt;blockquote&gt;
 &lt;p&gt;This should install pycryptodome and PyQt5 for an end user to modify how the software works.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
 Additionally, you could run:&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;blockquote&gt;
+&lt;pre&gt;&lt;code&gt;pip install pyqt5-tools
+&lt;/code&gt;&lt;/pre&gt;&lt;blockquote&gt;
 &lt;p&gt;This will give you PyQt tools such as designer which will allow you to create the user interface via a drag an drop program.&lt;!-- raw HTML omitted --&gt;
 To export the interface that you have created in Qt Designer as a python file, Run:&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;blockquote&gt;
+&lt;pre&gt;&lt;code&gt;pyuic5 -o &amp;quot;nameOfOutputFile.py&amp;quot; &amp;quot;path/to/ui/file.ui&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;blockquote&gt;
 &lt;p&gt;Or to get the interface you made as a python file that you want to run without another file to setup the interface run:&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;h2 id=&#34;demo&#34;&gt;Demo&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;pyuic5 -x -o &amp;quot;nameOfOutputFile.py&amp;quot; &amp;quot;path/to/ui/file.ui&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;demo&#34;&gt;Demo&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=mEqxIAc4rQM&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;img src=&#34;https://img.youtube.com/vi/mEqxIAc4rQM/0.jpg&#34; alt=&#34;Demonstration Video&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
         </item>
         <item>
