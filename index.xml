@@ -6,7 +6,25 @@
         <description>Recent content on K5924&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 05 Sep 2021 03:19:08 +0100</lastBuildDate><atom:link href="https://k5924.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 12 Sep 2021 00:35:03 +0100</lastBuildDate><atom:link href="https://k5924.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>DiscreteMaths</title>
+        <link>https://k5924.github.io/p/discretemaths/</link>
+        <pubDate>Sun, 12 Sep 2021 00:35:03 +0100</pubDate>
+        
+        <guid>https://k5924.github.io/p/discretemaths/</guid>
+        <description>&lt;h1 id=&#34;discretemaths&#34;&gt;DiscreteMaths&lt;/h1&gt;
+&lt;p&gt;CourseWork for Discrete Mathematics&lt;!-- raw HTML omitted --&gt;
+The write up will be uploaded to this branch when the coursework has been marked&lt;!-- raw HTML omitted --&gt;
+The file titled linear programming problem.ipynb is an anaconda notebook that i used to run all of the python scripts i have made.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;h1 id=&#34;lpp&#34;&gt;LPP&lt;/h1&gt;
+&lt;p&gt;The file titled lpp.py is the program i used to build the linear programming graphs of each individual edge in the tree.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;h1 id=&#34;graph-theory&#34;&gt;Graph Theory&lt;/h1&gt;
+&lt;p&gt;The file titled dijkstra&amp;rsquo;s algo.py is the algorithm used in the graph theory section&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;h1 id=&#34;statistics&#34;&gt;Statistics&lt;/h1&gt;
+&lt;p&gt;The basic information files and the pdf files with the csv&amp;rsquo;s are used in this section for the boxplots, gaussian distributions and the probability density functions&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Choosing a programming language</title>
         <link>https://k5924.github.io/p/choosing-a-programming-language/</link>
         <pubDate>Sun, 05 Sep 2021 03:19:08 +0100</pubDate>

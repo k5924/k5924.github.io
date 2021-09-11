@@ -6,7 +6,16 @@
     <description>Recent content in Posts on K5924&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Sep 2021 03:19:08 +0100</lastBuildDate><atom:link href="https://k5924.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Sep 2021 00:35:03 +0100</lastBuildDate><atom:link href="https://k5924.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DiscreteMaths</title>
+      <link>https://k5924.github.io/p/discretemaths/</link>
+      <pubDate>Sun, 12 Sep 2021 00:35:03 +0100</pubDate>
+      
+      <guid>https://k5924.github.io/p/discretemaths/</guid>
+      <description>DiscreteMaths CourseWork for Discrete MathematicsThe write up will be uploaded to this branch when the coursework has been markedThe file titled linear programming problem.ipynb is an anaconda notebook that i used to run all of the python scripts i have made.LPP The file titled lpp.py is the program i used to build the linear programming graphs of each individual edge in the tree.Graph Theory The file titled dijkstra&amp;rsquo;s algo.py is the algorithm used in the graph theory sectionStatistics The basic information files and the pdf files with the csv&amp;rsquo;s are used in this section for the boxplots, gaussian distributions and the probability density functions</description>
+    </item>
+    
     <item>
       <title>Choosing a programming language</title>
       <link>https://k5924.github.io/p/choosing-a-programming-language/</link>
