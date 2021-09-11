@@ -6,21 +6,65 @@
         <description>Recent content on K5924&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 12 Sep 2021 00:35:03 +0100</lastBuildDate><atom:link href="https://k5924.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 12 Sep 2021 00:40:38 +0100</lastBuildDate><atom:link href="https://k5924.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>The Vault</title>
+        <link>https://k5924.github.io/p/the-vault/</link>
+        <pubDate>Sun, 12 Sep 2021 00:40:38 +0100</pubDate>
+        
+        <guid>https://k5924.github.io/p/the-vault/</guid>
+        <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is an offline password manager as most online password managers store a users information on centralized servers. This gives an end user the ability to take control of how there data is being used and allows end users&#39; to keep hold of their private data whilst interacting with a password manager with an easy to use interface. This project was made for coursework while i was in my 2nd Year of studying Computer Science at LSBU for the Software Engineering module.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If you are compiling the code from source then ensure that python is installed on the machine with pip added to Path in the environment variables on windows. Through pip Run:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If pycryptodome fails to install, try running:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Then re-run:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This should install pycryptodome and PyQt5 for an end user to modify how the software works.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
+Additionally, you could run:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This will give you PyQt tools such as designer which will allow you to create the user interface via a drag an drop program.&lt;!-- raw HTML omitted --&gt;
+To export the interface that you have created in Qt Designer as a python file, Run:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Or to get the interface you made as a python file that you want to run without another file to setup the interface run:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;demo&#34;&gt;Demo&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=mEqxIAc4rQM&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;img src=&#34;https://img.youtube.com/vi/mEqxIAc4rQM/0.jpg&#34; alt=&#34;Demonstration Video&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
         <title>DiscreteMaths</title>
         <link>https://k5924.github.io/p/discretemaths/</link>
         <pubDate>Sun, 12 Sep 2021 00:35:03 +0100</pubDate>
         
         <guid>https://k5924.github.io/p/discretemaths/</guid>
-        <description>&lt;h1 id=&#34;discretemaths&#34;&gt;DiscreteMaths&lt;/h1&gt;
-&lt;p&gt;CourseWork for Discrete Mathematics&lt;!-- raw HTML omitted --&gt;
+        <description>&lt;p&gt;CourseWork for Discrete Mathematics&lt;!-- raw HTML omitted --&gt;
 The write up will be uploaded to this branch when the coursework has been marked&lt;!-- raw HTML omitted --&gt;
 The file titled linear programming problem.ipynb is an anaconda notebook that i used to run all of the python scripts i have made.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;h1 id=&#34;lpp&#34;&gt;LPP&lt;/h1&gt;
+&lt;h2 id=&#34;lpp&#34;&gt;LPP&lt;/h2&gt;
 &lt;p&gt;The file titled lpp.py is the program i used to build the linear programming graphs of each individual edge in the tree.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;h1 id=&#34;graph-theory&#34;&gt;Graph Theory&lt;/h1&gt;
+&lt;h2 id=&#34;graph-theory&#34;&gt;Graph Theory&lt;/h2&gt;
 &lt;p&gt;The file titled dijkstra&amp;rsquo;s algo.py is the algorithm used in the graph theory section&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;h1 id=&#34;statistics&#34;&gt;Statistics&lt;/h1&gt;
+&lt;h2 id=&#34;statistics&#34;&gt;Statistics&lt;/h2&gt;
 &lt;p&gt;The basic information files and the pdf files with the csv&amp;rsquo;s are used in this section for the boxplots, gaussian distributions and the probability density functions&lt;/p&gt;
 </description>
         </item>
