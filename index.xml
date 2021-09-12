@@ -6,7 +6,37 @@
         <description>Recent content on K5924&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 12 Sep 2021 01:04:56 +0100</lastBuildDate><atom:link href="https://k5924.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 12 Sep 2021 01:09:50 +0100</lastBuildDate><atom:link href="https://k5924.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>VICE Chess Engine</title>
+        <link>https://k5924.github.io/p/vice-chess-engine/</link>
+        <pubDate>Sun, 12 Sep 2021 01:09:50 +0100</pubDate>
+        
+        <guid>https://k5924.github.io/p/vice-chess-engine/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;This is a chess engine built using C. This is the same code that is found in the tutorial however, I have structured the code into separate folders and updated the makefile for ease of use. Can be used alongisde &lt;a class=&#34;link&#34; href=&#34;http://www.playwitharena.de/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;arena&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Run the make file in a terminal using this command:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre&gt;&lt;code&gt;make
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;todo&#34;&gt;TODO&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Follow &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=a1hoV1PcxYw&amp;amp;list=PLZ1QII7yudbdb7RUvMl8xf4Ws4WTSidA7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;this video&lt;/a&gt; on his channel which is technically the last VICE/chess engine video
+add static modifier to functions which are only used in the file in which they are declared
+add const/final to variables which wont be changed inside certain functions (when doing so do some testing so that the program works correctly)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/bluefeversoft&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;bluefeversoft&lt;/a&gt; for his youtube tutorial found &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=VuJL4qhpp-8&amp;amp;list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg&amp;amp;index=2&amp;amp;t=68s&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        <item>
         <title>TicTacToe</title>
         <link>https://k5924.github.io/p/tictactoe/</link>
         <pubDate>Sun, 12 Sep 2021 01:04:56 +0100</pubDate>

@@ -6,7 +6,18 @@
     <description>Recent content in Posts on K5924&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Sep 2021 01:04:56 +0100</lastBuildDate><atom:link href="https://k5924.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Sep 2021 01:09:50 +0100</lastBuildDate><atom:link href="https://k5924.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VICE Chess Engine</title>
+      <link>https://k5924.github.io/p/vice-chess-engine/</link>
+      <pubDate>Sun, 12 Sep 2021 01:09:50 +0100</pubDate>
+      
+      <guid>https://k5924.github.io/p/vice-chess-engine/</guid>
+      <description>This is a chess engine built using C. This is the same code that is found in the tutorial however, I have structured the code into separate folders and updated the makefile for ease of use. Can be used alongisde arena
+ Installation  Run the make file in a terminal using this command:
+ make TODO  Follow this video on his channel which is technically the last VICE/chess engine video add static modifier to functions which are only used in the file in which they are declared add const/final to variables which wont be changed inside certain functions (when doing so do some testing so that the program works correctly)</description>
+    </item>
+    
     <item>
       <title>TicTacToe</title>
       <link>https://k5924.github.io/p/tictactoe/</link>
