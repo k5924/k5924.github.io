@@ -6,14 +6,26 @@
     <description>Recent content in game on K5924&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Sep 2021 00:55:55 +0100</lastBuildDate><atom:link href="https://k5924.github.io/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Sep 2021 01:04:56 +0100</lastBuildDate><atom:link href="https://k5924.github.io/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TicTacToe</title>
+      <link>https://k5924.github.io/p/tictactoe/</link>
+      <pubDate>Sun, 12 Sep 2021 01:04:56 +0100</pubDate>
+      
+      <guid>https://k5924.github.io/p/tictactoe/</guid>
+      <description>A Tic Tac Toe Game (if you get 3 in a row you win)
+ TODO  Fix the PVE Mode so that the score is incremented once when a player or entity wins, currently the score increments twice
+ Credits Mitch Koko for his tutorial for Tic Tac Toe on his Youtube Channel Here
+Combined the fork from singhdhroov found Here so that there is a PVE game mode alongside PVP</description>
+    </item>
+    
     <item>
       <title>Sudoku Solver</title>
       <link>https://k5924.github.io/p/sudoku-solver/</link>
       <pubDate>Sun, 12 Sep 2021 00:55:55 +0100</pubDate>
       
       <guid>https://k5924.github.io/p/sudoku-solver/</guid>
-      <description>Introduction  This is a program which will solve a majority of the sudoku challenges thrown at it
+      <description> This is a program which will solve a majority of the sudoku challenges thrown at it
  Installation  Replace the sudoku puzzle in puzzle.c with a puzzle from Web Sudoku (puzzles up to hard have worked, Evil level doesn&amp;rsquo;t seem to work)
   Run the make file in a terminal using this command:
  make Credits  James Wadsworth for his youtube tutorial found here

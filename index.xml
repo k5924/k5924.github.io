@@ -6,7 +6,29 @@
         <description>Recent content on K5924&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 12 Sep 2021 00:59:07 +0100</lastBuildDate><atom:link href="https://k5924.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 12 Sep 2021 01:04:56 +0100</lastBuildDate><atom:link href="https://k5924.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>TicTacToe</title>
+        <link>https://k5924.github.io/p/tictactoe/</link>
+        <pubDate>Sun, 12 Sep 2021 01:04:56 +0100</pubDate>
+        
+        <guid>https://k5924.github.io/p/tictactoe/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;A Tic Tac Toe Game (if you get 3 in a row you win)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;todo&#34;&gt;TODO&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Fix the PVE Mode so that the score is incremented once when a player or entity wins, currently the score increments twice&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/mitchkoko&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Mitch Koko&lt;/a&gt; for his tutorial for Tic Tac Toe on his Youtube Channel &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=BZaXEIn9jE4&amp;amp;list=PLlvRDpXh1Se6e3FSn5O7VU6tzlndSi3FD&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Combined the fork from &lt;a class=&#34;link&#34; href=&#34;https://github.com/singhdhroov&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;singhdhroov&lt;/a&gt; found &lt;a class=&#34;link&#34; href=&#34;https://github.com/singhdhroov/tictactoeflutter&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Here&lt;/a&gt; so that there is a PVE game mode alongside PVP&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Image Processor</title>
         <link>https://k5924.github.io/p/image-processor/</link>
         <pubDate>Sun, 12 Sep 2021 00:59:07 +0100</pubDate>
@@ -40,8 +62,7 @@
         <pubDate>Sun, 12 Sep 2021 00:55:55 +0100</pubDate>
         
         <guid>https://k5924.github.io/p/sudoku-solver/</guid>
-        <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;blockquote&gt;
+        <description>&lt;blockquote&gt;
 &lt;p&gt;This is a program which will solve a majority of the sudoku challenges thrown at it&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
@@ -67,8 +88,7 @@
         <pubDate>Sun, 12 Sep 2021 00:45:23 +0100</pubDate>
         
         <guid>https://k5924.github.io/p/elevation/</guid>
-        <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;blockquote&gt;
+        <description>&lt;blockquote&gt;
 &lt;p&gt;We are provided with a working application that searches a raster of elevation data for regions of relative flatness. The raster is an image in which each pixel represents an elevation for a point on the terrain. The application can be imagined to be searching for potential landing sites for an aircraft or spacecraft of some kind.
 rgbelevation contains example images to use with the program&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -102,8 +122,7 @@ rgbelevation contains example images to use with the program&lt;/p&gt;
         <pubDate>Sun, 12 Sep 2021 00:40:38 +0100</pubDate>
         
         <guid>https://k5924.github.io/p/the-vault/</guid>
-        <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;blockquote&gt;
+        <description>&lt;blockquote&gt;
 &lt;p&gt;This is an offline password manager as most online password managers store a users information on centralized servers. This gives an end user the ability to take control of how there data is being used and allows end users&#39; to keep hold of their private data whilst interacting with a password manager with an easy to use interface. This project was made for coursework while i was in my 2nd Year of studying Computer Science at LSBU for the Software Engineering module.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;

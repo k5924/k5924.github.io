@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html lang="en-us">
     <head><meta charset='utf-8'>
-<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='Introduction  We are provided with a working application that searches a raster of elevation data for regions of relative flatness. The raster is an image in which each pixel represents an elevation for a point on the terrain. The application can be imagined to be searching for potential landing sites for an aircraft or spacecraft of some kind. rgbelevation contains example images to use with the program
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='We are provided with a working application that searches a raster of elevation data for regions of relative flatness. The raster is an image in which each pixel represents an elevation for a point on the terrain. The application can be imagined to be searching for potential landing sites for an aircraft or spacecraft of some kind. rgbelevation contains example images to use with the program
  SearchUIEnhancement    Run the search on a worker thread so the UI doesnt freeze -Display output from the searcher in the text area under the raster A user can cancel the operation and quit the program by closing the window A user can cancel the operation without quitting the program through a cancel button A progress bar is updated each second by a dedicated thread that monitors the progress of the search  Parallelisation    Make a class that extends recursive action which searches the raster for points of elevation Implement a compute method to make new threads in the fork join pool Discard information and update messages from the search listener  Considerations  All code must implement thread-safety correctly'><title>Elevation</title>
 
 <link rel='canonical' href='https://k5924.github.io/p/elevation/'>
 
 <link rel="stylesheet" href="/scss/style.min.css"><meta property='og:title' content='Elevation'>
-<meta property='og:description' content='Introduction  We are provided with a working application that searches a raster of elevation data for regions of relative flatness. The raster is an image in which each pixel represents an elevation for a point on the terrain. The application can be imagined to be searching for potential landing sites for an aircraft or spacecraft of some kind. rgbelevation contains example images to use with the program
+<meta property='og:description' content='We are provided with a working application that searches a raster of elevation data for regions of relative flatness. The raster is an image in which each pixel represents an elevation for a point on the terrain. The application can be imagined to be searching for potential landing sites for an aircraft or spacecraft of some kind. rgbelevation contains example images to use with the program
  SearchUIEnhancement    Run the search on a worker thread so the UI doesnt freeze -Display output from the searcher in the text area under the raster A user can cancel the operation and quit the program by closing the window A user can cancel the operation without quitting the program through a cancel button A progress bar is updated each second by a dedicated thread that monitors the progress of the search  Parallelisation    Make a class that extends recursive action which searches the raster for points of elevation Implement a compute method to make new threads in the fork join pool Discard information and update messages from the search listener  Considerations  All code must implement thread-safety correctly'>
 <meta property='og:url' content='https://k5924.github.io/p/elevation/'>
 <meta property='og:site_name' content='K5924&#39;s Blog'>
-<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='university' /><meta property='article:tag' content='coursework' /><meta property='article:tag' content='threads' /><meta property='article:tag' content='parallelization' /><meta property='article:published_time' content='2021-09-12T00:45:23&#43;01:00'/><meta property='article:modified_time' content='2021-09-12T00:45:23&#43;01:00'/>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='university' /><meta property='article:tag' content='coursework' /><meta property='article:tag' content='threads' /><meta property='article:tag' content='parallelization' /><meta property='article:tag' content='java' /><meta property='article:tag' content='swing' /><meta property='article:published_time' content='2021-09-12T00:45:23&#43;01:00'/><meta property='article:modified_time' content='2021-09-12T00:45:23&#43;01:00'/>
 <meta name="twitter:title" content="Elevation">
-<meta name="twitter:description" content="Introduction  We are provided with a working application that searches a raster of elevation data for regions of relative flatness. The raster is an image in which each pixel represents an elevation for a point on the terrain. The application can be imagined to be searching for potential landing sites for an aircraft or spacecraft of some kind. rgbelevation contains example images to use with the program
+<meta name="twitter:description" content="We are provided with a working application that searches a raster of elevation data for regions of relative flatness. The raster is an image in which each pixel represents an elevation for a point on the terrain. The application can be imagined to be searching for potential landing sites for an aircraft or spacecraft of some kind. rgbelevation contains example images to use with the program
  SearchUIEnhancement    Run the search on a worker thread so the UI doesnt freeze -Display output from the searcher in the text area under the raster A user can cancel the operation and quit the program by closing the window A user can cancel the operation without quitting the program through a cancel button A progress bar is updated each second by a dedicated thread that monitors the progress of the search  Parallelisation    Make a class that extends recursive action which searches the raster for points of elevation Implement a compute method to make new threads in the fork join pool Discard information and update messages from the search listener  Considerations  All code must implement thread-safety correctly">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-31RKT90HY6"></script>
 <script>
@@ -130,8 +130,7 @@ if (!doNotTrack) {
 </header>
 
     <section class="article-content">
-    <h2 id="introduction">Introduction</h2>
-<blockquote>
+    <blockquote>
 <p>We are provided with a working application that searches a raster of elevation data for regions of relative flatness. The raster is an image in which each pixel represents an elevation for a point on the terrain. The application can be imagined to be searching for potential landing sites for an aircraft or spacecraft of some kind.
 rgbelevation contains example images to use with the program</p>
 </blockquote>
@@ -172,6 +171,10 @@ rgbelevation contains example images to use with the program</p>
             <a href="/tags/threads/">threads</a>
         
             <a href="/tags/parallelization/">parallelization</a>
+        
+            <a href="/tags/java/">java</a>
+        
+            <a href="/tags/swing/">swing</a>
         
     </section>
 
@@ -221,6 +224,18 @@ rgbelevation contains example images to use with the program</p>
 
         <div class="article-details">
             <h2 class="article-title">DiscreteMaths</h2>
+        </div>
+    </a>
+</article>
+                
+                    
+<article class="">
+    <a href="/p/tictactoe/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">TicTacToe</h2>
         </div>
     </a>
 </article>
@@ -402,7 +417,6 @@ rgbelevation contains example images to use with the program</p>
                 <div class="widget--toc">
                     <nav id="TableOfContents">
   <ol>
-    <li><a href="#introduction">Introduction</a></li>
     <li><a href="#searchuienhancement">SearchUIEnhancement</a></li>
     <li><a href="#parallelisation">Parallelisation</a></li>
     <li><a href="#considerations">Considerations</a></li>

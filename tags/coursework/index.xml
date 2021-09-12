@@ -23,7 +23,7 @@
       <pubDate>Sun, 12 Sep 2021 00:45:23 +0100</pubDate>
       
       <guid>https://k5924.github.io/p/elevation/</guid>
-      <description>Introduction  We are provided with a working application that searches a raster of elevation data for regions of relative flatness. The raster is an image in which each pixel represents an elevation for a point on the terrain. The application can be imagined to be searching for potential landing sites for an aircraft or spacecraft of some kind. rgbelevation contains example images to use with the program
+      <description>We are provided with a working application that searches a raster of elevation data for regions of relative flatness. The raster is an image in which each pixel represents an elevation for a point on the terrain. The application can be imagined to be searching for potential landing sites for an aircraft or spacecraft of some kind. rgbelevation contains example images to use with the program
  SearchUIEnhancement    Run the search on a worker thread so the UI doesnt freeze -Display output from the searcher in the text area under the raster A user can cancel the operation and quit the program by closing the window A user can cancel the operation without quitting the program through a cancel button A progress bar is updated each second by a dedicated thread that monitors the progress of the search  Parallelisation    Make a class that extends recursive action which searches the raster for points of elevation Implement a compute method to make new threads in the fork join pool Discard information and update messages from the search listener  Considerations  All code must implement thread-safety correctly</description>
     </item>
     
@@ -33,7 +33,7 @@
       <pubDate>Sun, 12 Sep 2021 00:40:38 +0100</pubDate>
       
       <guid>https://k5924.github.io/p/the-vault/</guid>
-      <description>Introduction  This is an offline password manager as most online password managers store a users information on centralized servers. This gives an end user the ability to take control of how there data is being used and allows end users&#39; to keep hold of their private data whilst interacting with a password manager with an easy to use interface. This project was made for coursework while i was in my 2nd Year of studying Computer Science at LSBU for the Software Engineering module.</description>
+      <description>This is an offline password manager as most online password managers store a users information on centralized servers. This gives an end user the ability to take control of how there data is being used and allows end users&#39; to keep hold of their private data whilst interacting with a password manager with an easy to use interface. This project was made for coursework while i was in my 2nd Year of studying Computer Science at LSBU for the Software Engineering module.</description>
     </item>
     
     <item>

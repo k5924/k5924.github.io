@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tictactoe on K5924&#39;s Blog</title>
+    <link>https://k5924.github.io/tags/tictactoe/</link>
+    <description>Recent content in tictactoe on K5924&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Sep 2021 01:04:56 +0100</lastBuildDate><atom:link href="https://k5924.github.io/tags/tictactoe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TicTacToe</title>
+      <link>https://k5924.github.io/p/tictactoe/</link>
+      <pubDate>Sun, 12 Sep 2021 01:04:56 +0100</pubDate>
+      
+      <guid>https://k5924.github.io/p/tictactoe/</guid>
+      <description>A Tic Tac Toe Game (if you get 3 in a row you win)
+ TODO  Fix the PVE Mode so that the score is incremented once when a player or entity wins, currently the score increments twice
+ Credits Mitch Koko for his tutorial for Tic Tac Toe on his Youtube Channel Here
+Combined the fork from singhdhroov found Here so that there is a PVE game mode alongside PVP</description>
+    </item>
+    
+  </channel>
+</rss>

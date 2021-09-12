@@ -6,7 +6,61 @@
     <description>Recent content in Tags on K5924&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Sep 2021 00:59:07 +0100</lastBuildDate><atom:link href="https://k5924.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Sep 2021 01:04:56 +0100</lastBuildDate><atom:link href="https://k5924.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ai</title>
+      <link>https://k5924.github.io/tags/ai/</link>
+      <pubDate>Sun, 12 Sep 2021 01:04:56 +0100</pubDate>
+      
+      <guid>https://k5924.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>android</title>
+      <link>https://k5924.github.io/tags/android/</link>
+      <pubDate>Sun, 12 Sep 2021 01:04:56 +0100</pubDate>
+      
+      <guid>https://k5924.github.io/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dart</title>
+      <link>https://k5924.github.io/tags/dart/</link>
+      <pubDate>Sun, 12 Sep 2021 01:04:56 +0100</pubDate>
+      
+      <guid>https://k5924.github.io/tags/dart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flutter</title>
+      <link>https://k5924.github.io/tags/flutter/</link>
+      <pubDate>Sun, 12 Sep 2021 01:04:56 +0100</pubDate>
+      
+      <guid>https://k5924.github.io/tags/flutter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>game</title>
+      <link>https://k5924.github.io/tags/game/</link>
+      <pubDate>Sun, 12 Sep 2021 01:04:56 +0100</pubDate>
+      
+      <guid>https://k5924.github.io/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tictactoe</title>
+      <link>https://k5924.github.io/tags/tictactoe/</link>
+      <pubDate>Sun, 12 Sep 2021 01:04:56 +0100</pubDate>
+      
+      <guid>https://k5924.github.io/tags/tictactoe/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>coursework</title>
       <link>https://k5924.github.io/tags/coursework/</link>
@@ -26,6 +80,24 @@
     </item>
     
     <item>
+      <title>java</title>
+      <link>https://k5924.github.io/tags/java/</link>
+      <pubDate>Sun, 12 Sep 2021 00:59:07 +0100</pubDate>
+      
+      <guid>https://k5924.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swing</title>
+      <link>https://k5924.github.io/tags/swing/</link>
+      <pubDate>Sun, 12 Sep 2021 00:59:07 +0100</pubDate>
+      
+      <guid>https://k5924.github.io/tags/swing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>university</title>
       <link>https://k5924.github.io/tags/university/</link>
       <pubDate>Sun, 12 Sep 2021 00:59:07 +0100</pubDate>
@@ -35,20 +107,11 @@
     </item>
     
     <item>
-      <title>ai</title>
-      <link>https://k5924.github.io/tags/ai/</link>
+      <title>c</title>
+      <link>https://k5924.github.io/tags/c/</link>
       <pubDate>Sun, 12 Sep 2021 00:55:55 +0100</pubDate>
       
-      <guid>https://k5924.github.io/tags/ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>game</title>
-      <link>https://k5924.github.io/tags/game/</link>
-      <pubDate>Sun, 12 Sep 2021 00:55:55 +0100</pubDate>
-      
-      <guid>https://k5924.github.io/tags/game/</guid>
+      <guid>https://k5924.github.io/tags/c/</guid>
       <description></description>
     </item>
     
@@ -107,6 +170,15 @@
     </item>
     
     <item>
+      <title>jupyter notebook</title>
+      <link>https://k5924.github.io/tags/jupyter-notebook/</link>
+      <pubDate>Sun, 12 Sep 2021 00:35:03 +0100</pubDate>
+      
+      <guid>https://k5924.github.io/tags/jupyter-notebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>linear programming</title>
       <link>https://k5924.github.io/tags/linear-programming/</link>
       <pubDate>Sun, 12 Sep 2021 00:35:03 +0100</pubDate>
@@ -121,33 +193,6 @@
       <pubDate>Sun, 12 Sep 2021 00:35:03 +0100</pubDate>
       
       <guid>https://k5924.github.io/tags/statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>c</title>
-      <link>https://k5924.github.io/tags/c/</link>
-      <pubDate>Sun, 05 Sep 2021 03:19:08 +0100</pubDate>
-      
-      <guid>https://k5924.github.io/tags/c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>flutter</title>
-      <link>https://k5924.github.io/tags/flutter/</link>
-      <pubDate>Sun, 05 Sep 2021 03:19:08 +0100</pubDate>
-      
-      <guid>https://k5924.github.io/tags/flutter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>java</title>
-      <link>https://k5924.github.io/tags/java/</link>
-      <pubDate>Sun, 05 Sep 2021 03:19:08 +0100</pubDate>
-      
-      <guid>https://k5924.github.io/tags/java/</guid>
       <description></description>
     </item>
     

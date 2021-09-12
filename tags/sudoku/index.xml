@@ -13,7 +13,7 @@
       <pubDate>Sun, 12 Sep 2021 00:55:55 +0100</pubDate>
       
       <guid>https://k5924.github.io/p/sudoku-solver/</guid>
-      <description>Introduction  This is a program which will solve a majority of the sudoku challenges thrown at it
+      <description> This is a program which will solve a majority of the sudoku challenges thrown at it
  Installation  Replace the sudoku puzzle in puzzle.c with a puzzle from Web Sudoku (puzzles up to hard have worked, Evil level doesn&amp;rsquo;t seem to work)
   Run the make file in a terminal using this command:
  make Credits  James Wadsworth for his youtube tutorial found here

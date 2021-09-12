@@ -2,8 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://k5924.github.io/tags/ai/</loc>
+    <lastmod>2021-09-12T01:04:56+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/tags/android/</loc>
+    <lastmod>2021-09-12T01:04:56+01:00</lastmod>
+  </url><url>
     <loc>https://k5924.github.io/categories/</loc>
-    <lastmod>2021-09-12T00:59:07+01:00</lastmod>
+    <lastmod>2021-09-12T01:04:56+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/tags/dart/</loc>
+    <lastmod>2021-09-12T01:04:56+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/tags/flutter/</loc>
+    <lastmod>2021-09-12T01:04:56+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/tags/game/</loc>
+    <lastmod>2021-09-12T01:04:56+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/</loc>
+    <lastmod>2021-09-12T01:04:56+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/post/</loc>
+    <lastmod>2021-09-12T01:04:56+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/categories/repository/</loc>
+    <lastmod>2021-09-12T01:04:56+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/tags/</loc>
+    <lastmod>2021-09-12T01:04:56+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/p/tictactoe/</loc>
+    <lastmod>2021-09-12T01:04:56+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/tags/tictactoe/</loc>
+    <lastmod>2021-09-12T01:04:56+01:00</lastmod>
   </url><url>
     <loc>https://k5924.github.io/tags/coursework/</loc>
     <lastmod>2021-09-12T00:59:07+01:00</lastmod>
@@ -14,25 +47,16 @@
     <loc>https://k5924.github.io/p/image-processor/</loc>
     <lastmod>2021-09-12T00:59:07+01:00</lastmod>
   </url><url>
-    <loc>https://k5924.github.io/</loc>
+    <loc>https://k5924.github.io/tags/java/</loc>
     <lastmod>2021-09-12T00:59:07+01:00</lastmod>
   </url><url>
-    <loc>https://k5924.github.io/post/</loc>
-    <lastmod>2021-09-12T00:59:07+01:00</lastmod>
-  </url><url>
-    <loc>https://k5924.github.io/categories/repository/</loc>
-    <lastmod>2021-09-12T00:59:07+01:00</lastmod>
-  </url><url>
-    <loc>https://k5924.github.io/tags/</loc>
+    <loc>https://k5924.github.io/tags/swing/</loc>
     <lastmod>2021-09-12T00:59:07+01:00</lastmod>
   </url><url>
     <loc>https://k5924.github.io/tags/university/</loc>
     <lastmod>2021-09-12T00:59:07+01:00</lastmod>
   </url><url>
-    <loc>https://k5924.github.io/tags/ai/</loc>
-    <lastmod>2021-09-12T00:55:55+01:00</lastmod>
-  </url><url>
-    <loc>https://k5924.github.io/tags/game/</loc>
+    <loc>https://k5924.github.io/tags/c/</loc>
     <lastmod>2021-09-12T00:55:55+01:00</lastmod>
   </url><url>
     <loc>https://k5924.github.io/tags/sudoku/</loc>
@@ -65,22 +89,16 @@
     <loc>https://k5924.github.io/tags/graph-theory/</loc>
     <lastmod>2021-09-12T00:35:03+01:00</lastmod>
   </url><url>
+    <loc>https://k5924.github.io/tags/jupyter-notebook/</loc>
+    <lastmod>2021-09-12T00:35:03+01:00</lastmod>
+  </url><url>
     <loc>https://k5924.github.io/tags/linear-programming/</loc>
     <lastmod>2021-09-12T00:35:03+01:00</lastmod>
   </url><url>
     <loc>https://k5924.github.io/tags/statistics/</loc>
     <lastmod>2021-09-12T00:35:03+01:00</lastmod>
   </url><url>
-    <loc>https://k5924.github.io/tags/c/</loc>
-    <lastmod>2021-09-05T03:19:08+01:00</lastmod>
-  </url><url>
     <loc>https://k5924.github.io/p/choosing-a-programming-language/</loc>
-    <lastmod>2021-09-05T03:19:08+01:00</lastmod>
-  </url><url>
-    <loc>https://k5924.github.io/tags/flutter/</loc>
-    <lastmod>2021-09-05T03:19:08+01:00</lastmod>
-  </url><url>
-    <loc>https://k5924.github.io/tags/java/</loc>
     <lastmod>2021-09-05T03:19:08+01:00</lastmod>
   </url><url>
     <loc>https://k5924.github.io/categories/programming/</loc>

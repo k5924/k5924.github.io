@@ -13,7 +13,16 @@
       <pubDate>Sun, 12 Sep 2021 00:40:38 +0100</pubDate>
       
       <guid>https://k5924.github.io/p/the-vault/</guid>
-      <description>Introduction  This is an offline password manager as most online password managers store a users information on centralized servers. This gives an end user the ability to take control of how there data is being used and allows end users&#39; to keep hold of their private data whilst interacting with a password manager with an easy to use interface. This project was made for coursework while i was in my 2nd Year of studying Computer Science at LSBU for the Software Engineering module.</description>
+      <description>This is an offline password manager as most online password managers store a users information on centralized servers. This gives an end user the ability to take control of how there data is being used and allows end users&#39; to keep hold of their private data whilst interacting with a password manager with an easy to use interface. This project was made for coursework while i was in my 2nd Year of studying Computer Science at LSBU for the Software Engineering module.</description>
+    </item>
+    
+    <item>
+      <title>DiscreteMaths</title>
+      <link>https://k5924.github.io/p/discretemaths/</link>
+      <pubDate>Sun, 12 Sep 2021 00:35:03 +0100</pubDate>
+      
+      <guid>https://k5924.github.io/p/discretemaths/</guid>
+      <description>CourseWork for Discrete MathematicsThe write up will be uploaded to this branch when the coursework has been markedThe file titled linear programming problem.ipynb is an anaconda notebook that i used to run all of the python scripts i have made.LPP The file titled lpp.py is the program i used to build the linear programming graphs of each individual edge in the tree.Graph Theory The file titled dijkstra&amp;rsquo;s algo.py is the algorithm used in the graph theory sectionStatistics The basic information files and the pdf files with the csv&amp;rsquo;s are used in this section for the boxplots, gaussian distributions and the probability density functions</description>
     </item>
     
     <item>
