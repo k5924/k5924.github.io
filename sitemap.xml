@@ -2,22 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://k5924.github.io/categories/</loc>
+    <lastmod>2021-09-12T00:59:07+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/tags/coursework/</loc>
+    <lastmod>2021-09-12T00:59:07+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/tags/image-processing/</loc>
+    <lastmod>2021-09-12T00:59:07+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/p/image-processor/</loc>
+    <lastmod>2021-09-12T00:59:07+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/</loc>
+    <lastmod>2021-09-12T00:59:07+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/post/</loc>
+    <lastmod>2021-09-12T00:59:07+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/categories/repository/</loc>
+    <lastmod>2021-09-12T00:59:07+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/tags/</loc>
+    <lastmod>2021-09-12T00:59:07+01:00</lastmod>
+  </url><url>
+    <loc>https://k5924.github.io/tags/university/</loc>
+    <lastmod>2021-09-12T00:59:07+01:00</lastmod>
+  </url><url>
     <loc>https://k5924.github.io/tags/ai/</loc>
     <lastmod>2021-09-12T00:55:55+01:00</lastmod>
   </url><url>
-    <loc>https://k5924.github.io/categories/</loc>
-    <lastmod>2021-09-12T00:55:55+01:00</lastmod>
-  </url><url>
     <loc>https://k5924.github.io/tags/game/</loc>
-    <lastmod>2021-09-12T00:55:55+01:00</lastmod>
-  </url><url>
-    <loc>https://k5924.github.io/</loc>
-    <lastmod>2021-09-12T00:55:55+01:00</lastmod>
-  </url><url>
-    <loc>https://k5924.github.io/post/</loc>
-    <lastmod>2021-09-12T00:55:55+01:00</lastmod>
-  </url><url>
-    <loc>https://k5924.github.io/categories/repository/</loc>
     <lastmod>2021-09-12T00:55:55+01:00</lastmod>
   </url><url>
     <loc>https://k5924.github.io/tags/sudoku/</loc>
@@ -26,12 +41,6 @@
     <loc>https://k5924.github.io/p/sudoku-solver/</loc>
     <lastmod>2021-09-12T00:55:55+01:00</lastmod>
   </url><url>
-    <loc>https://k5924.github.io/tags/</loc>
-    <lastmod>2021-09-12T00:55:55+01:00</lastmod>
-  </url><url>
-    <loc>https://k5924.github.io/tags/coursework/</loc>
-    <lastmod>2021-09-12T00:45:23+01:00</lastmod>
-  </url><url>
     <loc>https://k5924.github.io/p/elevation/</loc>
     <lastmod>2021-09-12T00:45:23+01:00</lastmod>
   </url><url>
@@ -39,9 +48,6 @@
     <lastmod>2021-09-12T00:45:23+01:00</lastmod>
   </url><url>
     <loc>https://k5924.github.io/tags/threads/</loc>
-    <lastmod>2021-09-12T00:45:23+01:00</lastmod>
-  </url><url>
-    <loc>https://k5924.github.io/tags/university/</loc>
     <lastmod>2021-09-12T00:45:23+01:00</lastmod>
   </url><url>
     <loc>https://k5924.github.io/tags/python/</loc>

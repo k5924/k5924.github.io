@@ -6,7 +6,17 @@
     <description>Recent content in university on K5924&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Sep 2021 00:45:23 +0100</lastBuildDate><atom:link href="https://k5924.github.io/tags/university/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Sep 2021 00:59:07 +0100</lastBuildDate><atom:link href="https://k5924.github.io/tags/university/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Image Processor</title>
+      <link>https://k5924.github.io/p/image-processor/</link>
+      <pubDate>Sun, 12 Sep 2021 00:59:07 +0100</pubDate>
+      
+      <guid>https://k5924.github.io/p/image-processor/</guid>
+      <description>An application made to perform processing operations on images as part of the CSI_5_OOP_2021 (Object Oriented Programming) module at LSBU (London South Bank University). The majority of the code was provided by the module leader where I have been tasked to:
+  Move each operation to an individual class Create a common interface or abstract class that all individual operation classes descend from Automatically add all operations to the operations menu in the application Link the menu operations to code that executes the operation Use a factory class to instantiate each operation Pass a factory class instance to the ImageProcessor constructor to populate the menu items under operations  Extended task  Implement the following operations with their interfaces then add them to the factory so that a user can set them in the application</description>
+    </item>
+    
     <item>
       <title>Elevation</title>
       <link>https://k5924.github.io/p/elevation/</link>
